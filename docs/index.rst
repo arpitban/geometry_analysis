@@ -19,6 +19,7 @@ A link to `Google <https://www.google.com>`_.
    :caption: Contents:
 
    something
+   api
 
 Indices and tables
 ==================
